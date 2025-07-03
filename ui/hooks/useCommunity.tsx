@@ -1,4 +1,3 @@
-// hooks/useCommunity.ts
 import { useTracker } from 'meteor/react-meteor-data';
 import { useState } from 'react';
 import { Communities } from '../../communities/communities';

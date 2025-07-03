@@ -4,7 +4,7 @@ interface Person {
   companyName?: string;
   checkInTime?: Date | null;
   checkOutTime?: Date | null;
-  communityId?: string; // add this field to filter by community
+  communityId?: string;
 }
 
 interface EventSummaryProps {
